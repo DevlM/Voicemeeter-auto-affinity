@@ -1,4 +1,4 @@
-# Voicemeeter AudioDG Affinity Manager
+# Voicemeeter auto affinity
 
 This PowerShell script automatically sets the CPU affinity and priority for both the Windows Audio Device Graph (audiodg.exe) and Voicemeeter processes to improve audio performance and reduce latency.
 
