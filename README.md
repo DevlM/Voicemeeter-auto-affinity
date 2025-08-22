@@ -35,7 +35,7 @@ This PowerShell script automatically sets the CPU affinity and priority for both
    
    e. Actions tab → New → "Start a program":
       - Program/script: `PowerShell.exe`
-      - Add arguments: `-NoProfile -ExecutionPolicy Bypass -File "C:\Voicemeeter-audiodg-affinity\voicemeeter.ps1" -WindowStyle Hidden`
+      - Add arguments: `-NoProfile -ExecutionPolicy Bypass -File "PATH\TO\voicemeeter.ps1" -WindowStyle Hidden`
       
    f. Settings tab:
       - Check "Allow task to be run on demand"
